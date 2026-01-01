@@ -28,7 +28,7 @@ public class Fibonacci {
     }
 }
 
-class AdinaFibonacci {
+class A_Fibonacci {
     public static void main(String[] args) {
 
         //number of elements to generate in the sequence
